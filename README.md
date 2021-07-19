@@ -8,52 +8,52 @@
 
 ## The Dataset
 #### test_features.csv - test data
-##### jobId - multiple various (str)
-##### companyId - multiple various (str)
-##### jobType - CEO, CTO, CFO, VP, Manager, Senior, Junior, Janitor
-##### degree - Doctoral, Masters, Bachelors, High School, None
-##### major - Biology, Business, Chemistry, CompSci, Engineering, Literature, Math, None, Physics 
-##### industry - Oil, Finance, Web, Health, Auto, Service, Education 
-##### yearsExperience - it spans from 0-24 years
-##### milesfrommetropolis - it spans from 0-99 miles
+##### 1. jobId - multiple various (str)
+##### 2. companyId - multiple various (str)
+##### 3. jobType - CEO, CTO, CFO, VP, Manager, Senior, Junior, Janitor
+##### 4. degree - Doctoral, Masters, Bachelors, High School, None
+##### 5. major - Biology, Business, Chemistry, CompSci, Engineering, Literature, Math, None, Physics 
+##### 6. industry - Oil, Finance, Web, Health, Auto, Service, Education 
+##### 7. yearsExperience - it spans from 0-24 years
+##### 8. milesfrommetropolis - it spans from 0-99 miles
 
 #### train_features.csv - training data
-##### jobId - multiple various (str)
-##### companyId - multiple various (str)
-##### jobType - CEO, CTO, CFO, VP, Manager, Senior, Junior, Janitor
-##### degree - Doctoral, Masters, Bachelors, High School, None
-##### major - Biology, Business, Chemistry, CompSci, Engineering, Literature, Math, None, Physics 
-##### industry - Oil, Finance, Web, Health, Auto, Service, Education 
-##### yearsExperience - it spans from 0-24 years
-##### milesfrommetropolis - it spans from 0-99 miles
-##### salary - it spans from 0-300 dollars
+##### 1. jobId - multiple various (str)
+##### 2. companyId - multiple various (str)
+##### 3. jobType - CEO, CTO, CFO, VP, Manager, Senior, Junior, Janitor
+##### 4. degree - Doctoral, Masters, Bachelors, High School, None
+##### 5. major - Biology, Business, Chemistry, CompSci, Engineering, Literature, Math, None, Physics 
+##### 6. industry - Oil, Finance, Web, Health, Auto, Service, Education 
+##### 7. yearsExperience - it spans from 0-24 years
+##### 8. milesfrommetropolis - it spans from 0-99 miles
+##### 9. salary - it spans from 0-300 dollars
 
 #### train_salaries.csv - salaries data
-##### jobId - multiple various (str)
-##### companyId - multiple various (str)
+##### 1. jobId - multiple various (str)
+##### 2. companyId - multiple various (str)
 
 ## The Models used
-### - Linear Regression
-### - Regression Tree
-### - Random Forest Regression
+### 1. Linear Regression
+### 2. Regression Tree
+### 3.  Random Forest Regression
 
 ## The Results
 #### - Linear Regression
-##### r-squared = 0.74
-##### cv_scores = 0.74
-##### adjusted r-squared = 0.74
-##### model intercept = 134.86
+##### - r-squared = 0.74
+##### - cv_scores = 0.74
+##### - adjusted r-squared = 0.74
+##### - model intercept = 134.86
 
 #### - Regression Tree
-##### r-squared = 0.46
-##### cv_scores = 0.46
-##### adjusted r-squared = 0.46
+##### - r-squared = 0.46
+##### - cv_scores = 0.46
+##### - adjusted r-squared = 0.46
 
 #### - Random Forest Regression
-##### r-squared = 0.70
-##### cv_scores = 0.85
-##### adjusted r-squared = 0.75
-##### model intercept = 0.52
+##### - r-squared = 0.70
+##### - cv_scores = 0.85
+##### - adjusted r-squared = 0.75
+##### - model intercept = 0.52
 
 
 ### Quick Insights
