@@ -33,9 +33,9 @@
 ##### 2. companyId - multiple various (str)
 
 ## The Models used
-### 1. Linear Regression
-### 2. Regression Tree
-### 3.  Random Forest Regression
+#### 1. Linear Regression
+#### 2. Regression Tree
+#### 3.  Random Forest Regression
 
 ## The Results
 #### - Linear Regression
