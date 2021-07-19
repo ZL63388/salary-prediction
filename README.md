@@ -57,7 +57,7 @@
 
 ### Quick Insights
 #### - yearsExperience or the years of experience of a person is the highest correlated variable or the most important factor for one to have a high salary offer
-#### - jobType or the type of job a person has also dictates the salary offered. being a CFO or CTO of a company means a higher salary compared to other job types
-#### - degree or the degrees completed by a person matters or is one of the factors to have a high salary offer
+#### - jobType or the type of job a person also dictates the salary offered. being a CFO or CTO of a company means a higher salary compared to other job types
+#### - degree or the educational degrees completed by a person matters or is one of the factors to have a high salary offer
 #### - those who major in business and engineering have a higher salary compared to other majors
 #### - oil and finance have the highest salary offers among the industries
