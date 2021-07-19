@@ -38,7 +38,7 @@
 #### 3.  Random Forest Regression
 
 ## The Results
-#### - Linear Regression
+#### - Linear Regression (best result/model)
 ##### - r-squared = 0.74
 ##### - cv_scores = 0.74
 ##### - adjusted r-squared = 0.74
