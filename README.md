@@ -51,9 +51,8 @@
 
 #### - Random Forest Regression
 ##### - r-squared = 0.70
-##### - cv_scores = 0.85
-##### - adjusted r-squared = 0.75
-##### - model intercept = 0.52
+##### - cv_scores = 0.70
+##### - adjusted r-squared = 0.70
 
 
 ### Quick Insights
