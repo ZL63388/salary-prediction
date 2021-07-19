@@ -7,7 +7,7 @@
 ### Build a model to predict the salaries for the job postings contained in test_features.csv
 
 ## The Dataset
-#### test_features.csv - test data
+#### test_features.csv - (test data), data shape 1,000,000 rows; 8 columns
 ##### 1. jobId - multiple various (str)
 ##### 2. companyId - multiple various (str)
 ##### 3. jobType - CEO, CTO, CFO, VP, Manager, Senior, Junior, Janitor
@@ -17,7 +17,7 @@
 ##### 7. yearsExperience - it spans from 0-24 years
 ##### 8. milesfrommetropolis - it spans from 0-99 miles
 
-#### train_features.csv - training data
+#### train_features.csv - (training data), data shape 1,000,000 rows; 9 columns
 ##### 1. jobId - multiple various (str)
 ##### 2. companyId - multiple various (str)
 ##### 3. jobType - CEO, CTO, CFO, VP, Manager, Senior, Junior, Janitor
@@ -28,7 +28,7 @@
 ##### 8. milesfrommetropolis - it spans from 0-99 miles
 ##### 9. salary - it spans from 0-300 dollars
 
-#### train_salaries.csv - salaries data
+#### train_salaries.csv - (salaries data), data shape 1,000,000 rows; 2 columns
 ##### 1. jobId - multiple various (str)
 ##### 2. companyId - multiple various (str)
 
